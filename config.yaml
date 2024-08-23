@@ -1,0 +1,94 @@
+motd: 'Hello duckie, some random infos: 
+
+- You can use the red or green dots below for disabling/enabling DJ changes notifications
+
+- This website: <a href="https://sisyduck.com">sisyduck.com</A> can work offline in Hammahalle
+
+- Please share the bot using this <a href="https://t.me/share/url?url=https%3A%2F%2Ft.me%2FbigSisyBot&text=Check%20out%20this%20cool%20bot%3A%20%40bigSisyBot">link</A> 
+
+- You can pin the bot for easy access (similar to saved messages)
+
+- There is a another bot running for festival lineups there: @shallowBunnyBot
+
+- The source code is now available <a href="https://github.com/shallowBunny/app/">there</A>
+
+Have fun! 😘' 
+
+
+meta:
+ nowShowShallowBunnyAd: false
+ nowShowDataSourceAd: true
+ nowShowSisyDuckAd: false
+ nowTextAfterMap: ""
+ nowShowPleaseSendData: false
+ nowTextWhenFinished: 'Next party:Friday'
+ nowBotUrl: "https://t.me/bigSisyBot"
+ aboutBigIcon: "duck-192x192.png"
+ aboutShowShallowBunnyIcon: true
+ aboutShowSisyDuckIcon: false
+ nowMapImage: ""
+ roomYouAreHereEmoticon: "🦆"
+ mobileAppName: "BigSisyDuck"
+ prefix: "duck"
+ title: "Sisyphos"
+
+beg: "Fri Aug 16 2024"
+nbDaysForInput: 4
+buttons: ["Now", "ALL", "Help"]
+input: false
+nowSkipClosed: false
+
+rooms: ["🔨 Hammahalle", "💃🕺 Wintergarten", "⛴ Dampfer", "🏖️ Strand", "🥡 Tunnel"]
+
+🥡 Tunnel:
+- "1 16:00 240 0 Sextasy" # 2024-08-10
+- "1 20:00 120 0 Saytek *LIVE*" # 2024-08-10
+- "2 16:00 180 0 Moog Conspiracy" # 2024-08-10
+- "2 19:00 180 0 Norman Weber" # 2024-08-11
+
+🏖️ Strand:
+- "1 10:00 180 0 Bebibelli" # 2024-08-10
+- "1 13:00 180 0 Melon Blush" # 2024-08-10
+- "1 16:00 180 0 Monokultur" # 2024-08-10
+- "1 19:00 180 0 Elisa Elisa" # 2024-08-10
+- "2 10:00 60 0 Matze Sampler *KONZERT*" # 2024-08-10
+- "2 11:00 180 0 Sirs" # 2024-08-11
+- "2 14:00 240 0 Franz Scala" # 2024-08-11
+- "2 18:00 60 0 *SECRET* *LIVE*" # 2024-08-11
+- "2 19:00 240 0 Anna Schreit" # 2024-08-11
+
+💃🕺 Wintergarten:
+- "1 10:00 180 0 Splendid Alfoonsino"
+- "1 13:00 180 0 Sal" # 2024-08-10
+- "1 16:00 180 0 Brother in Crime" # 2024-08-10
+- "1 19:00 180 0 Fabio Monesi" # 2024-08-10
+- "1 22:00 180 0 Donald Dust" # 2024-08-10
+- "2 01:00 180 0 Nico Lahs" # 2024-08-11
+- "2 04:00 60 0 Alben & Laje *LIVE*" # 2024-08-11
+- "2 05:00 180 0 Anderson" # 2024-08-11
+- "2 08:00 180 0 Ten Fingerz" # 2024-08-11
+- "2 11:00 180 0 Basile de Suresnes" # 2024-08-11
+- "2 14:00 180 0 Marc Schneider" # 2024-08-11
+- "2 17:00 240 0 Thomas Stieler" # 2024-08-11
+- "2 21:00 240 0 Enzio Etchaberri" # 2024-08-11
+- "3 01:00 180 0 Alexander Skancke" # 2024-08-12
+- "3 04:00 180 0 Elli Altenberger" # 2024-08-12
+- "3 07:00 180 0 Ma.xsim b2b Rango" # 2024-08-12
+
+⛴ Dampfer:
+- '0 07:00 180 0 Limi'
+- "1 21:00 180 0 Sahar" # 2024-08-10
+- "2 00:00 180 0 Freudenthal" # 2024-08-11
+- "2 03:00 180 0 Musumeci" # 2024-08-11
+- "2 06:00 180 0 Phunkadelica" # 2024-08-11
+- "2 09:00 180 0 *TBA*" # 2024-08-11
+- "2 22:00 120 0 Mefisto Brass *KONZERT*" # 2024-08-11
+
+🔨 Hammahalle:
+- "1 22:00 180 0 Kuba Sojka" # 2024-08-10
+- "2 01:00 60 0 Generali Minerali *LIVE*" # 2024-08-11
+- "2 02:00 180 0 Piotr Figiel" # 2024-08-11
+- "2 05:00 150 0 Sonico" # 2024-08-11
+- "2 07:30 150 0 Mike Konstantinidis" # 2024-08-11
+- "2 22:00 210 0 Jedidiah" # 2024-08-11
+- "3 01:30 210 0 Vaiana"
