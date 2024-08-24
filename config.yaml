@@ -32,7 +32,7 @@ meta:
  prefix: "duck"
  title: "Sisyphos"
 
-beg: "Fri Aug 2 2024"
+beg: "Fri Aug 24 2024"
 nbDaysForInput: 4
 buttons: ["Now", "ALL", "Help"]
 input: true
@@ -83,9 +83,9 @@ rooms: ["🔨 Hammahalle", "💃🕺 Wintergarten", "⛴ Dampfer", "🏖️ Stra
 - "2 22:00 120 0 The Magic Touch *KONZERT*"
 
 🔨 Hammahalle:
-- "1 22:00 180 0 Steven Shade" # 2024-08-10
-- "2 01:00 180 0 Bullzeye" # 2024-08-11
-- "2 04:00 180 0 Boyd Schidt" # 2024-08-11
-- "2 07:00 180 0 Simo Lorenz" # 2024-08-11
-- "2 22:00 210 0 Tutti" # 2024-08-11
-- "3 01:30 270 0 Vas" # 2024-08-12
+- "1 22:00 180 0 Steven Shade"
+- "2 01:00 180 0 Bullzeye"
+- "2 04:00 180 0 Boyd Schidt"
+- "2 07:00 180 0 Simo Lorenz"
+- "2 22:00 210 0 Tutti"
+- "3 01:30 210 0 Vas"
