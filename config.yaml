@@ -32,63 +32,60 @@ meta:
  prefix: "duck"
  title: "Sisyphos"
 
-beg: "Fri Aug 16 2024"
+beg: "Fri Aug 2 2024"
 nbDaysForInput: 4
 buttons: ["Now", "ALL", "Help"]
-input: false
+input: true
 nowSkipClosed: false
 
 rooms: ["🔨 Hammahalle", "💃🕺 Wintergarten", "⛴ Dampfer", "🏖️ Strand", "🥡 Tunnel"]
 
 🥡 Tunnel:
-- "1 16:00 240 0 Sextasy" # 2024-08-10
-- "1 20:00 120 0 Saytek *LIVE*" # 2024-08-10
-- "2 16:00 180 0 Moog Conspiracy" # 2024-08-10
-- "2 19:00 180 0 Norman Weber" # 2024-08-11
+- "1 16:00 120 0 Erley"
+- "1 18:00 60 0 Rati *LIVE*"
+- "1 19:00 60 0 3 A M"
+- "1 20:00 60 0 4 A M"
+- "1 21:00 60 0 5 A M"
+- "2 16:00 180 0 Silent G"
+- "2 19:00 180 0 Mareike Bautz"
 
 🏖️ Strand:
-- "1 10:00 180 0 Bebibelli" # 2024-08-10
-- "1 13:00 180 0 Melon Blush" # 2024-08-10
-- "1 16:00 180 0 Monokultur" # 2024-08-10
-- "1 19:00 180 0 Elisa Elisa" # 2024-08-10
-- "2 10:00 60 0 Matze Sampler *KONZERT*" # 2024-08-10
-- "2 11:00 180 0 Sirs" # 2024-08-11
-- "2 14:00 240 0 Franz Scala" # 2024-08-11
-- "2 18:00 60 0 *SECRET* *LIVE*" # 2024-08-11
-- "2 19:00 240 0 Anna Schreit" # 2024-08-11
+- "1 16:00 180 0 Sandro Botsvadze"
+- "1 19:00 180 0 Olsvanger"
+- "2 08:00 120 0 *Techno Yoga*"
+- "2 10:00 120 0 Dr. Long"
+- "2 12:00 60 0 Gabunia *LIVE*"
+- "2 13:00 180 0 9Eye"
+- "2 16:00 180 0 Shir Khan"
+- "2 19:00 180 0 Joyce Muniz"
 
 💃🕺 Wintergarten:
-- "1 10:00 180 0 Splendid Alfoonsino"
-- "1 13:00 180 0 Sal" # 2024-08-10
-- "1 16:00 180 0 Brother in Crime" # 2024-08-10
-- "1 19:00 180 0 Fabio Monesi" # 2024-08-10
-- "1 22:00 180 0 Donald Dust" # 2024-08-10
-- "2 01:00 180 0 Nico Lahs" # 2024-08-11
-- "2 04:00 60 0 Alben & Laje *LIVE*" # 2024-08-11
-- "2 05:00 180 0 Anderson" # 2024-08-11
-- "2 08:00 180 0 Ten Fingerz" # 2024-08-11
-- "2 11:00 180 0 Basile de Suresnes" # 2024-08-11
-- "2 14:00 180 0 Marc Schneider" # 2024-08-11
-- "2 17:00 240 0 Thomas Stieler" # 2024-08-11
-- "2 21:00 240 0 Enzio Etchaberri" # 2024-08-11
-- "3 01:00 180 0 Alexander Skancke" # 2024-08-12
-- "3 04:00 180 0 Elli Altenberger" # 2024-08-12
-- "3 07:00 180 0 Ma.xsim b2b Rango" # 2024-08-12
+- "1 16:00 180 0 Reece Walker"
+- "1 19:00 180 0 Bress Underground"
+- "1 22:00 180 0 DJ Fett Burger"
+- "2 01:00 180 0 Joj"
+- "2 04:00 180 0 Vakho"
+- "2 07:00 180 0 Boya"
+- "2 10:00 180 0 Tomma"
+- "2 13:00 180 0 Juli N More"
+- "2 16:00 180 0 Hatsvali"
+- "2 19:00 180 0 Ady Toledano"
+- "2 22:00 240 0 Johannes Albert"
+- "3 02:00 240 0 Mike Terra & Nat Wendell"
+- "3 06:00 240 0 Norman Weber"
 
 ⛴ Dampfer:
-- '0 07:00 180 0 Limi'
-- "1 21:00 180 0 Sahar" # 2024-08-10
-- "2 00:00 180 0 Freudenthal" # 2024-08-11
-- "2 03:00 180 0 Musumeci" # 2024-08-11
-- "2 06:00 180 0 Phunkadelica" # 2024-08-11
-- "2 09:00 180 0 *TBA*" # 2024-08-11
-- "2 22:00 120 0 Mefisto Brass *KONZERT*" # 2024-08-11
+- "1 21:00 180 0 Nicole"
+- "2 00:00 90 0 Beqa *LIVE*"
+- "2 01:30 210 0 Ikako"
+- "2 05:00 180 0 Shakolin"
+- "2 08:00 180 0 Sumo"
+- "2 22:00 120 0 The Magic Touch *KONZERT*"
 
 🔨 Hammahalle:
-- "1 22:00 180 0 Kuba Sojka" # 2024-08-10
-- "2 01:00 60 0 Generali Minerali *LIVE*" # 2024-08-11
-- "2 02:00 180 0 Piotr Figiel" # 2024-08-11
-- "2 05:00 150 0 Sonico" # 2024-08-11
-- "2 07:30 150 0 Mike Konstantinidis" # 2024-08-11
-- "2 22:00 210 0 Jedidiah" # 2024-08-11
-- "3 01:30 210 0 Vaiana"
+- "1 22:00 180 0 Steven Shade" # 2024-08-10
+- "2 01:00 180 0 Bullzeye" # 2024-08-11
+- "2 04:00 180 0 Boyd Schidt" # 2024-08-11
+- "2 07:00 180 0 Simo Lorenz" # 2024-08-11
+- "2 22:00 210 0 Tutti" # 2024-08-11
+- "3 01:30 270 0 Vas" # 2024-08-12
